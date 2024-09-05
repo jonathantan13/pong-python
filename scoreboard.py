@@ -23,5 +23,5 @@ class Scoreboard(Turtle):
         self.update_scoreboard()
 
     def p2_point(self):
-        self.p1_score += 1
+        self.p2_score += 1
         self.update_scoreboard()
