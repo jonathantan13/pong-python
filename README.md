@@ -6,7 +6,7 @@ The classic 1972 game remade in Python.
 ```python
 https://github.com/jonathantan13/pong-python.git
 ```
-3. Run the main.py file
+2. Run the main.py file
 
 ## Controls
 - Player 1: W & S
