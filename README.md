@@ -1,4 +1,10 @@
-Clone and run main.py to start playing
+# PONG
+The classic 1972 game remade in Python.
 
-Player 1 controls: W & S
-Player 2 controls: Up & down arrow keys
+## Installation
+1. Clone the repository [Github](https://github.com/jonathantan13/pong-python.git)
+2. Run the main.py file
+
+## Controls
+Player 1: W & S
+Player 2: Up & down arrow keys
