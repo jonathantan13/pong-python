@@ -39,10 +39,10 @@ while game_on:
 
     #Check if ball goes out of bounds, if true then reset ball and increment player's score.
     if ball.xcor() > 400:
-        scoreboard.p2_point()
+        scoreboard.p1_point()
         ball.reset_pos()
     if ball.xcor() < -400:
-        scoreboard.p1_point()
+        scoreboard.p2_point()
         ball.reset_pos()
 
 screen.exitonclick()
